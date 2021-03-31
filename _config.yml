@@ -4,8 +4,8 @@ title: Danny Ebanks
 author:
   name: danielEbanks
   email: debanks@caltech.edu
-description: > # this means to ignore newlines until "show_excerpts:"
- 
+description:  
+PhD Student in Social Sciences at Caltech. 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -15,7 +15,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: dannycebanks
+    twitter: dannyCebanks
     github:  danielEbanks
     # devto: jekyll
     # dribbble: jekyll
