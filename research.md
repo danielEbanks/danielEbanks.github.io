@@ -1,3 +1,8 @@
+
+layout: page
+title: "Research Interests and Current Projects"
+permalink: /research/
+
 ## Research
 
 My research interest include Political Methodology, American Politics, and Congress. Specifically, I study how to use networks and 
