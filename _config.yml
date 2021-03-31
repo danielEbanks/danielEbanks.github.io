@@ -1,1 +1,26 @@
 theme: jekyll-theme-minimal
+
+# Site wide configuration
+
+title: Academic Website of Danny Ebanks
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Danny Ebanks
+  avatar: bio-photo.jpg
+  bio: "Social Sciences Graduate Student at Caltech"
+  email: debanks@caltech.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: dannycebanks
+  linkedin: #username
+  github: danielEbanks
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
