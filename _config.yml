@@ -1,15 +1,15 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 # Site wide configuration
 
-title: Academic Website of Danny Ebanks
+title: Academic Website for Danny Ebanks
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Danny Ebanks
-  avatar: bio-photo.jpg
+  avatar: headshot-debanks.jpg
   bio: "Social Sciences Graduate Student at Caltech"
   email: debanks@caltech.edu
   # Do not include the @ symbol in your Twitter username
