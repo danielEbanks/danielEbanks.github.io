@@ -1,16 +1,15 @@
 ---
-layout: page
-theme: jekyll-theme-minimal
+layout: post
 title: "Research Interests and Current Projects"
 permalink: /research/
 ---
-## Research
+## Research Interests
 
 My research interest include Political Methodology, American Politics, and Congress. Specifically, I study how to use networks and 
 Natural Language Proccessing to study Congressional Party Behavior.  
 
 
-# Working Papers
+## Working Papers
 
 [Legislative Communication and Power: Measuring Leadership
 from Social Media Data](https://www.dropbox.com/s/h2d2llfx4q2ap5g/Legislative_Tweets.pdf?dl=0). 
