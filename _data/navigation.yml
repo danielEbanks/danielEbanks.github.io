@@ -1,9 +1,9 @@
 # Site navigation links
-- title: About Me
+- title: "About Me"
   url: /
 
-- title: Research
+- title: "Current Projects"
   url: /research/
   
- - title: C.V.
+ - title: "C.V."
   url: /cv/
