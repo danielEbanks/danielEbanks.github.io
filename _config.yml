@@ -53,9 +53,12 @@ header_pages:
  - cv.md
  
 # Build settings
-theme: minima
+
+
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
 
+remote_theme: jekyll/minima
