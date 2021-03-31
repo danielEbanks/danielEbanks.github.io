@@ -1,27 +1,60 @@
-# Set themes
+
+  
+title: Danny Ebanks
+author:
+  name: danielEbanks
+  email: debanks@caltech.edu
+description: > # this means to ignore newlines until "show_excerpts:"
+ 
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: dannycebanks
+    github:  danielEbanks
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
 theme: minima
 
-# Site wide configuration
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 
-title: Academic Website for Danny Ebanks
-locale: en_US
-logo: headshot-debanks.JPG # filename of a logo image that has been placed into your images directory
-
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Danny Ebanks
-  avatar: headshot-debanks.JPG 
-  bio: "Social Sciences Graduate Student at Caltech"
-  email: debanks@caltech.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: dannycebanks
-  linkedin: #username
-  github: danielEbanks
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
