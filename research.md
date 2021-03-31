@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "Research Interests and Current Projects"
+title: "Current Projects"
 permalink: /research/
 ---
 
 
-My research interest include Political Methodology, American Politics, and Congress. Specifically, I study how to use networks and 
-Natural Language Proccessing to study Congressional Party Behavior.  
 
 
 ## Working Papers

@@ -6,11 +6,9 @@ permalink: /
 
 
 
-I am a current third-year graduate student in the Social Sciences program at Caltech. My [research](/research/) focus is 
-Political Methodology and American Politics
+I am currently a third-year PhD student at Caltech. My research interest include Political Methodology, American Politics, and Congress. Specifically, 
+I study how to use networks and Natural Language Proccessing to study Congressional Party Behavior.
 
-## Contact Me
-I can be reached via 
 
 
 
