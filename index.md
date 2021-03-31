@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 ---
 
-
+![headshot](/images/headshot.JPG)
 
 I am currently a third-year PhD student at Caltech. My research interest include Political Methodology, American Politics, and Congress. Specifically, 
 I study how to use networks and Natural Language Proccessing to study Congressional Party Behavior.
