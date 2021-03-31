@@ -7,7 +7,7 @@ permalink: /research/
 
 
 
-## Working Papers
+### Working Papers
 
 [Legislative Communication and Power: Measuring Leadership
 from Social Media Data](https://www.dropbox.com/s/h2d2llfx4q2ap5g/Legislative_Tweets.pdf?dl=0). 
