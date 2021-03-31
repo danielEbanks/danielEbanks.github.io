@@ -1,5 +1,6 @@
 ---
 layout: page
+theme: jekyll-theme-minimal
 title: "Research Interests and Current Projects"
 permalink: /research/
 ---
