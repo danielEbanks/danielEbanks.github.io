@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Danny Ebanks
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: 'favicon.ico' # You can add own logo. For example '/images/logo.png'.
 description: Mria is a multipurpose blog theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -99,11 +99,12 @@ footer__description: Don’t limit yourself. Many people limit themselves to wha
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+- {icon: "twitter", link: "https://twitter.com/dannycebanks"}
+- {icon: "github", link: "https://github.com/danielEbanks"}
+#- {icon: "facebook", link: "https://facebook.com"}
+#- {icon: "codepen", link: "https://codepen.io"}
+#- {icon: "pinterest", link: "https://pinterest.com"}
+#- {icon: "vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
