@@ -49,7 +49,7 @@ author:
 # Blog Section Settings
 blog__settings:
   enable: true
-  blog__title: Latest Posts
+  blog__title: Latest 
   blog__description:
 
 
@@ -72,8 +72,8 @@ tag__settings:
 # Author Section Settings
 author__section:
   enable: true
-  author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
-  author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
+  author__section__title: Danny Ebanks
+  author__section__description: I'm currently a fifth-year PhD candidate at Caltech. My research interests include Political Methodology, American Politics, and Congress. I study how to innovate on statistical methods, machine learning  and natural language processing to understand American politics.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/100.jpg
@@ -94,7 +94,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: Political Methodology. Machine Learning. American Politics.
 
 
 # Social Links
@@ -127,7 +127,7 @@ footer__menu__settings:
 # Contact Settings
 contact:
   email: debanks@caltech.edu # Add your form_id
-  description: Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: Please feed to reach out or email me about research!  # Add a description of your form
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
