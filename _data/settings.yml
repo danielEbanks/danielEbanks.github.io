@@ -71,7 +71,7 @@ tag__settings:
 #-------------------------------
 # Author Section Settings
 author__section:
-  enable: false
+  enable: true
   author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
@@ -83,7 +83,7 @@ author__section:
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  enable: true
+  enable: false
   mailchimp__title: Get interesting news
   mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
