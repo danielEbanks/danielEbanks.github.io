@@ -13,9 +13,9 @@ minima:
   date_format: "%b %-d, %Y"
  # skin: dark
   # generate social links in footer
-  social_links:
-    twitter: dannyCebanks
-    github:  danielEbanks
+  #social_links:
+    #twitter: dannyCebanks
+    #github:  danielEbanks
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
