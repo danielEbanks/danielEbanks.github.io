@@ -7,7 +7,7 @@ permalink: /research/
 
 
 
-### Working Papers
+## Working Papers
 
 [If a Statistical Model Predicts That Common Events Should Occur Only Once in 10,000 Elections, Maybe it’s the Wrong Model](https://gking.harvard.edu/10k). 
 Joint with Jonathan N. Katz and Gary King
