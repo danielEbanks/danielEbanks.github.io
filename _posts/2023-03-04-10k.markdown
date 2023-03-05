@@ -9,9 +9,9 @@ tags:   [electoral systems, bayesian, statistics]
 tags_color: '#477690'
 ---
 
-<b>Authors:</b> Danny Ebanks. Jonathan N. Katz. Gary King.<br></br>
-<b>Paper:</b> <a download="https://gking.harvard.edu/files/gking/files/10k.pdf"> Download</a> <br></br>
-<b>Supplementary Appendix:</b> <a download="https://gking.harvard.edu/files/gking/files/10k-supp.pdf"> Download</a>
+<b>Authors:</b> Danny Ebanks. Jonathan N. Katz. Gary King.<br>
+<b>Paper:</b> <a href="https://gking.harvard.edu/files/gking/files/10k.pdf"> Download</a> <br>
+<b>Supplementary Appendix:</b> <a href="https://gking.harvard.edu/files/gking/files/10k-supp.pdf"> Download</a>
 
 ## Abstract
 
