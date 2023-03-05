@@ -5,7 +5,7 @@ description: Measuring Leadership in the U.S. House of Representatives from Soci
 date:   2021-02-12 15:01:35 +0300
 author: danny
 image:  '/images/legtweetsfig.jpg'
-tags:   [congress, NLP, topic modeling,party politics]
+tags:   [congress,nlp,topic modeling,party politics]
 tags_color: '#477010'
 ---
 
