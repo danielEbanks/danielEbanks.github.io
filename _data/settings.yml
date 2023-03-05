@@ -42,7 +42,7 @@ hero:
 author:
   author__name: Daniel Ebanks
   author__bio: I'm currently a fifth-year PhD candidate at Caltech. My research interests include Political Methodology, American Politics, and Congress. I study how to innovate on statistical methods, machine learning  and natural language processing to understand American politics.
-  author__avatar: '/images/'
+  author__avatar: '/images/headshot-debanks-new.jpg'
 
 
 #-------------------------------
@@ -74,9 +74,9 @@ author__section:
   enable: true
   author__section__title: Danny Ebanks
   author__section__description: I'm currently a fifth-year PhD candidate at Caltech. My research interests include Political Methodology, American Politics, and Congress. I study how to innovate on statistical methods, machine learning  and natural language processing to understand American politics.
-  aurhor__section__button__text: More About Me
-  aurhor__section__button__link: /about
-  author__section__big__image: /images/100.jpg
+  author__section__button__text: More About Me
+  author__section__button__link: /about
+  author__section__big__image: /images/headshot-debanks.jpg
   author__section__small__image: /images/101.jpg
 
 
@@ -127,7 +127,7 @@ footer__menu__settings:
 # Contact Settings
 contact:
   email: debanks@caltech.edu # Add your form_id
-  description: Please feed to reach out or email me about research!  # Add a description of your form
+  description: Please feed to reach out or email me about research, running, or potential collaborations!  # Add a description of your form
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
