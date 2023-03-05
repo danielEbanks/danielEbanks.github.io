@@ -10,7 +10,7 @@ tags_color: '#477610'
 ---
 
 <b>Authors:</b> Danny Ebanks. Bojan Tonguz. R. Michael Alvarez <br>
-<a href="https://medium.com/trustworthy-social-media/dynamics-of-political-polarization-surprising-stability-in-the-trump-era-congress-f21c2b8a98"> Full Blog Post </a> at Medium. <br>
+<b>Medium:</b> at <a href="https://medium.com/trustworthy-social-media/dynamics-of-political-polarization-surprising-stability-in-the-trump-era-congress-f21c2b8a98">Trustworthy Social Media </a> <br>
 
 ## Preview
 
