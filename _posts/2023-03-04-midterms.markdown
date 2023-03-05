@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Persuadable voters determined the 2022 midterm.
+description: Abortion rights and issues-based frameworks for elections.
+date:   2023-02-11 15:01:35 +0300
+author: danny
+image:  '/images/figure8_Counterfactual.png'
+tags:   [surveys, elections, statistics]
+tags_color: '#477610'
+---
+
+<b>Authors:</b> Claudia Kann. Danny Ebanks. Jacob Morrier. R. Michael Alvarez
+
+## Abstract
+
+Leading to the 2022 midterm elections, fundamentals-based forecasts and conventional wisdom among pundits pointed to a strong Republican wave. The incumbent president had a low approval rate, and the national economy was struggling. However, the Republican Party did not perform as well as models and conventional wisdom had suggested. This has led some to suggest the 2022 midterm elections are an ``asterisk election," with idiosyncratic, unpredictable results. Still, previous research shows that factors beyond the fundamentals can help predict election results. For instance, unexpected variations in some issues' public salience may lead voters to consider factors they normally disregard. Using a nationally representative sample of registered voters interviewed immediately after the November 2022 midterm elections, we show that abortion was a decisive and highly salient issue in this election. Comparing these results to analogous ones from a November 2020 survey shows this was not a foregone state of affairs. This leads us to believe that abortion's increased salience is attributable to the Supreme Court's decision to overturn \emph{Roe v. Wade} in June 2022. The 2022 midterm elections seem to have been swayed by this exogenous shock to the political system.
