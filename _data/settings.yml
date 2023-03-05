@@ -49,7 +49,7 @@ author:
 # Blog Section Settings
 blog__settings:
   enable: true
-  blog__title: Latest Posts
+  blog__title: Latest Papers
   blog__description:
 
 
@@ -94,7 +94,8 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: Political Methodology, Statistics, American Politics.
+
 
 
 # Social Links
