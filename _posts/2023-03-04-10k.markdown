@@ -4,7 +4,7 @@ title:  If a Statistical Model Predicts That Common Events Should Occur Only Onc
 description: 
 date:   2023-02-10 15:01:35 +0300
 author: danny
-image:  '/images/MedianVoteEBar.pdf'
+image:  '/images/MedianVoteEBar.jpg'
 tags:   [electoral systems, bayesian, statistics]
 tags_color: '#477690'
 ---
