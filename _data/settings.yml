@@ -12,8 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Papers'
-      url: '/WorkingPapers/'
+    - title: 'Research Projects'
+      url: '/ResearchProjects/'
     - title: 'About'
       url: '/about/'
     - title: 'CV'
