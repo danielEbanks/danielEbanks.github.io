@@ -252,7 +252,7 @@
 
     .author__small__image {
       right: -40px;
-      bottom: -4px
+      bottom: -40px
     }
   }
 
@@ -276,7 +276,7 @@
 
     .author__small__image {
       right: 0;
-      width: 360px;
+      width: 260px;
       height: 260px;
       box-shadow: none;
     }
@@ -284,7 +284,7 @@
 
   @media only screen and (max-width: $tablet) {
     .author__small__image {
-      width: 320px;
+      width: 120px;
       height: 220px;
     }
   }
@@ -297,7 +297,7 @@
     }
 
     .author__small__image {
-      width: 280px;
+      width: 180px;
       height: 180px;
     }
   }
