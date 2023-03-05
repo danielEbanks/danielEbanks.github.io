@@ -16,6 +16,8 @@ menu__settings:
       url: '/WorkingPapers/'
     - title: 'About'
       url: '/about/'
+    - title: 'CV'
+      url: '/cv/'
   #  - title: 'Videos'
   #    url: '/videos/'
     - title: 'More'
@@ -24,8 +26,6 @@ menu__settings:
     #    title: 'About'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/cv/'
-        title: 'CV'
      # - url: '/elements/'
      #   title: 'Elements'
 
@@ -35,7 +35,7 @@ menu__settings:
 hero:
   enable: true
   hero__title: Danny Ebanks
-  hero__description: Political Methodology, Statistics, Machine learning, American Politics
+  hero__description: Political Methodology, Statistics, Machine Learning, American Politics
   hero__image: '/images/IMG_1634.png' # You can add hero image. For example '/images/06.jpg'
 
 
@@ -75,7 +75,7 @@ tag__settings:
 author__section:
   enable: true
   author__section__title: I am a 5th year PhD Candidate in the Social Sciences at Caltech. 
-  author__section__description: My research interests include a passion for political methodology and American politics, especially latent variable models, Bayesian statistics, legislatures, and natural language processing. I strive to develop and implement statistical methods, to understand the latest in machine learning and AI, and innovate in these areas in ways small  and large to better understand our political world.  I am always eager to chat about research and statistics, so feel free to reach out. Outside of research, I'm lifelong runner who hails from New York.
+  author__section__description: My research interests include political methodology and American politics, especially latent variable models, Bayesian statistics, legislatures, and natural language processing. I strive to develop and implement statistical methods, to understand the latest in machine learning and AI, and innovate in these areas in ways small  and large to better understand our political world.  I am always eager to chat about research and statistics, so feel free to reach out. Outside of research, I'm lifelong runner who hails from New York.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/IMG_0663.png
