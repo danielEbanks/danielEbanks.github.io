@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 7
-paginate_path: "/WorkingPapers/page/:num"
+paginate_path: "/ResearchProjects/page/:num"
 
 
 #-------------------------------
@@ -24,7 +24,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /WorkingPapers/:slug
+    permalink: /ResearchProjects/:slug
   authors:
     output: true
     permalink: /:name
