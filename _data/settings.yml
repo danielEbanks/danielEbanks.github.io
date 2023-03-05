@@ -32,7 +32,7 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Danny Ebanks.
+  hero__title: Danny Ebanks
   hero__description: Political Methodology, Statistics, Machine learning, American Politics
   hero__image: '/images/IMG_1634.png' # You can add hero image. For example '/images/06.jpg'
 
