@@ -5,7 +5,7 @@ description: Insights from Using Machine Learning and Natural Language Processin
 date:   2023-02-12 15:01:35 +0300
 author: danny
 image:  '/images/polarization.jpg#wide'
-tags:   [polarization,nlp,topic_modeling]
+tags:   [polarization,nlp,topic-modeling]
 tags_color: '#477610'
 ---
 
