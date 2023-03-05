@@ -24,6 +24,8 @@ menu__settings:
     #    title: 'About'
       - url: '/contact/'
         title: 'Contact'
+      - url: '/cv/'
+        title: 'CV'
      # - url: '/elements/'
      #   title: 'Elements'
 
