@@ -4,8 +4,8 @@ title:  Legislative Communication and Power
 description: Measuring Leadership in the U.S. House of Representatives from Social Media Data
 date:   2021-02-12 15:01:35 +0300
 author: danny
-image:  '/images/legtweetsfig.jpg'
-tags:   [congress,nlp,topic modeling,party politics]
+image:  '/images/legtweetsfig.jpg#wide'
+tags:   [congress,nlp,topic_modeling,party_politics]
 tags_color: '#477010'
 ---
 

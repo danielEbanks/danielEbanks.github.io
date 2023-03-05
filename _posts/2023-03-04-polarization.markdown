@@ -4,8 +4,8 @@ title:  Dynamics of Political Polarization
 description: Insights from Using Machine Learning and Natural Language Processing with Twitter Data
 date:   2023-02-12 15:01:35 +0300
 author: danny
-image:  '/images/polarization.jpg'
-tags:   [polarization,nlp,topic modeling]
+image:  '/images/polarization.jpg#wide'
+tags:   [polarization,nlp,topic_modeling]
 tags_color: '#477610'
 ---
 
