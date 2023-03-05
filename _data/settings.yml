@@ -14,10 +14,16 @@ menu__settings:
       url: '/'
     - title: 'Papers'
       url: '/WorkingPapers/'
-    - title: 'About' 
-	url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'      
+    - title: 'About'
+      url: '/about/'
+    - title: 'Videos'
+      url: '/videos/'
+    - title: 'Pages'
+      submenu:
+    #  - url: '/about/'
+    #    title: 'About'
+      - url: '/contact/'
+        title: 'Contact'
      # - url: '/elements/'
      #   title: 'Elements'
 
@@ -34,9 +40,9 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
+  author__name: Danny Ebanks
   author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__avatar: /images/01-1.jpg
+  author__avatar: /images/headshot-debanks-new.jpg
 
 
 #-------------------------------
@@ -59,7 +65,7 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: travel # To display the tag section, specify your favorite tag.
+  tag: electoral systems # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
