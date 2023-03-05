@@ -1,7 +1,7 @@
 ---
 username: danny
 name: Danny Ebanks
-image: '/images/headshot-debanks-new.jpg'
+image: '/images/IMG_2236.png'
 cover:
 location: Los Angeles
 website: https://dannyebanks.com

@@ -42,7 +42,7 @@ hero:
 author:
   author__name: Danny Ebanks
   author__bio: I am a 5th year PhD Candidate in the Social Sciences at Caltech
-  author__avatar: /images/headshot-debanks-new.jpg
+  author__avatar: /images/IMG_2236.png
 
 
 #-------------------------------
@@ -77,7 +77,7 @@ author__section:
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/IMG_0663.png
-  author__section__small__image: /images/headshot-debanks.JPG
+  author__section__small__image: /images/IMG_2236.png
 
 
 #-------------------------------
