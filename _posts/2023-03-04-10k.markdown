@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  If a Statistical Model Predicts That Common Events Should Occur Only Once in 10,000 Elections, Maybe it’s the Wrong Model
-description: 
+description: Statistical description is not anything goes. Important quantities of interest arise from generatively accurate models— which inform our understanding of American democracy.
 date:   2023-02-10 15:01:35 +0300
 author: danny
 image:  '/images/MedianVoteEBar.jpg'

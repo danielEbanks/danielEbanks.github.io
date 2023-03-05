@@ -12,7 +12,7 @@ tags_color: '#477610'
 <b>Authors:</b> Danny Ebanks. Bojan Tonguz. R. Michael Alvarez <br>
 <a href="https://medium.com/trustworthy-social-media/dynamics-of-political-polarization-surprising-stability-in-the-trump-era-congress-f21c2b8a98"> Full Blog Post </a> at Medium. <br>
 
-## Abstract
+## Preview
 
 The American public increasingly finds itself bitterly divided over political differences. Survey indicators, partisan media, and the public’s voting patterns inform this sense of division in our politics. That said, we use applications of Machine Learning and Natural Language Processing (NLP) methods in a novel way to paint a more nuanced picture of divisions in American political opinions.
 
