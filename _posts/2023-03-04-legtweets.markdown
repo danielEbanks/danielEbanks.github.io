@@ -10,9 +10,9 @@ tags_color: '#477010'
 ---
 
 <b>Authors:</b> Daniel Ebanks, Hao Yan, R. Michael Alvarez, Sanmay Das, Betsy Sinclair <br>
-<b>Paper:</br> <a href="/files/Legislative_Tweets.pdf"> Download</a><br>
-<b>Supplementary Information:</br> <a href="/files/SILegTweets.pdf"> Download</a><br>
-<b>Medium Post:</br> at <a href="https://medium.com/trustworthy-social-media/following-the-leader-congressional-communication-on-social-media-b479675aac4f"> Trustworthy Social Media</a>
+<b>Paper:</r> <a href="/files/Legislative_Tweets.pdf"> Download</a><br>
+<b>Supplementary Information:</b> <a href="/files/SILegTweets.pdf"> Download</a><br>
+<b>Medium Post:</r> at <a href="https://medium.com/trustworthy-social-media/following-the-leader-congressional-communication-on-social-media-b479675aac4f"> Trustworthy Social Media</a>
 
 ## Preview
 
