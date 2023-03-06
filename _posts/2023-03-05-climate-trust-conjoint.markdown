@@ -5,7 +5,7 @@ description: Americans perceive latent partisanship of scientists, and this infl
 date:   2023-03-03 15:01:35 +0300
 author: danny
 image:  '/images/partisan_effects.png#wide#long'
-tags:   [surveys,trust,conoints,causal-inference]
+tags:   [climate,surveys,trust,conjoints,causal-inference]
 tags_color: '#487010'
 ---
 
