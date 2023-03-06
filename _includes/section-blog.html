@@ -10,7 +10,7 @@
         <div class="section__info">
           <div class="section__head">
             <h2 class="section__title">{{ site.data.settings.blog__settings.blog__title }}</h2>
-            <a class="section__link" href="{{ '/ResearchProjects' | relative_url }}">See all posts<i class="ion ion-md-arrow-forward"></i></a>
+            <a class="section__link" href="{{ '/ResearchProjects' | relative_url }}">See all projects<i class="ion ion-md-arrow-forward"></i></a>
           </div>
           {% if site.data.settings.blog__settings.blog__description %}
             <p class="section__description">{{ site.data.settings.blog__settings.blog__description }}</p>
@@ -20,7 +20,7 @@
 
           <div class="row">
             {% if site.posts.size > 0 %}
-              {% for post in site.posts offset:0 limit:3 %}
+              {% for post in site.posts offset:0 limit:4 %}
                 <div class="article col {% if forloop.index == 1 and page.url == '/' %}col-12 article--first{% else %}col-6 col-w-10 col-d-12{% endif %}">
                   <div class="article__inner">
 
