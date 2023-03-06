@@ -2,7 +2,7 @@
 layout: post
 title: Republicans perceive scientists are Democrats, but they can be persuaded to be more trustful of scientific findings
 description: Americans perceive latent partisanship of scientists, and this influences their trust in scientific findings.  
-date:   2023-03-20 15:01:35 +0300
+date:   2023-03-03 15:01:35 +0300
 author: danny
 image:  '/images/partisan_effects.png#wide#long'
 tags:   [surveys,trust,conoints,causal-inference]
