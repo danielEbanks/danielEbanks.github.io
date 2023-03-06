@@ -96,7 +96,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Political Methodology, Statistics, American Politics.
+footer__description: Political Methodology, Statistics, Machine Learning, American Politics.
 
 
 
@@ -119,8 +119,8 @@ footer__menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Papers'
-      url: '/WorkingPapers/'
+    - title: 'Research Projects'
+      url: '/ResearchProjects/'
 
 
 
