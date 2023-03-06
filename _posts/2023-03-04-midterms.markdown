@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Persuadable voters decided the 2022 midterm.
-description: Abortion rights and issues-based frameworks for elections.
+title:  Persuadable voters decided the 2022 midterm
+description: Abortion rights and issues-based frameworks for elections
 date:   2023-02-11 15:01:35 +0300
 author: danny
 image:  '/images/figure8_Counterfactual.png#wide'
