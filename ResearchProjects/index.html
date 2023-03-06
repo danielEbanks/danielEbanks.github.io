@@ -26,7 +26,7 @@ description: Some of my latest work on frontier methods for Political Methodolog
 <div class="container animate">
   <div class="row">
     {% if site.posts.size > 0 %}
-      {% for post in paginator.posts offset:0 limit:9%}
+      {% for post in paginator.posts offset:0 %}
         {% include article.html %}
       {% endfor %}
     {% endif %}
