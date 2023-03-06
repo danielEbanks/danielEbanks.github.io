@@ -9,7 +9,7 @@ tags:   [climate,surveys,trust]
 tags_color: '#487010'
 ---
 
-<b>Authors:</b> R. Michael Alvarez, Ramit Debneu, Daniel Ebanks <br>
+<b>Authors:</b> R. Michael Alvarez, Ramit Debnath, Daniel Ebanks <br>
 <b>Paper:</b> Under Review
 
 ## Abstract
