@@ -9,7 +9,7 @@ tags:   [climate,nlp,topic-modeling,trust]
 tags_color: '#487010'
 ---
 
-<b>Authors:</b> Ramit Debneu, Daniel Ebanks, Kamiar Mohaddes, Thomas Roulet, R. Michael Alvarez <br>
+<b>Authors:</b> Ramit Debnath, Daniel Ebanks, Kamiar Mohaddes, Thomas Roulet, R. Michael Alvarez <br>
 <b>Paper:</b> Revise and Resubmit at Scientific Advances
 
 ## Preview
