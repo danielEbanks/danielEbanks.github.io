@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Highly polluting fossil fuel firms reframe climate and sustainability communication on social media
-description: 
+title: Why don’t Americans trust university researchers and why it matters for climate change
+description: we examine the multivariate correlates of trust in university research and opinions about climate change using high-quality survey data.
 date:   2022-02-20 15:01:35 +0300
 author: danny
 image:  '/images/trust-regression.jpg#wide'
