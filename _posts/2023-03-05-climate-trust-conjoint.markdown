@@ -9,7 +9,7 @@ tags:   [climate,surveys,trust,conjoints,causal-inference]
 tags_color: '#487010'
 ---
 
-<b>Authors:</b>  Daniel Ebanks, R. Michael Alvarez, Ramit Debnath, <br>
+<b>Authors:</b>  Daniel Ebanks, R. Michael Alvarez, Ramit Debnath<br>
 <b>OSF:</b> <a href="https://osf.io/8ufdv" > Here. </a>
 
 ## Abstract
