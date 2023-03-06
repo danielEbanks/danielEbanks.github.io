@@ -119,7 +119,7 @@ footer__menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Research Projects'
+    - title: 'Research'
       url: '/ResearchProjects/'
 
 
