@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Highly polluting fossil fuel firms reframe climate and sustainability communication on social media
-description: We provide a new data-driven foundation for understanding the structure of influential stakeholders' online conversations in the climate and sustainability space.
+title: Aborton Rights are on the 2024 Ballot
+description: Research that we just published in PLOS ONE suggests that the evidence we have from the 2022 midterms shows that Biden’s path to victory likely necessitates that his campaign focus on a key issue — abortion.
 date:   2024-01-19 15:01:35 +0300
 author: 
-image:  '/images/RRFig1.jpg#wide'
-tags:   [midterms,abortion,voters,elections]
+image:  '/images/figure8_Counterfactual.png#wide'
+tags:   [midterms,abortion,voters,elections,]
 tags_color: '#487010'
 ---
 
 <b>Authors:</b>  Mike Alvarez, Daniel Ebanks, Claudia Kann, Jacob Morrier <br>
-<b>Paper:</b> 
+
 
 ## Abstract
 Later this fall, American voters will be casting ballots in consequential elections, in particular for the presidency.  While the exact choices voters will have in the presidential race in the fall of 2024 will be determined in the next few months, most likely President Biden will be facing former President Trump in the 2024 presidential race.  
 
-Research that we just published in PLOS ONE (<a href="https://doi.org/10.1371/journal.pone.0294047">here</a>) argues that Biden’s path to victory necessitates that his campaign focus on a key issue — abortion.
+Research that we just published in PLOS ONE (<a href="https://doi.org/10.1371/journal.pone.0294047">here</a>) suggests that the evidence we have from the 2022 midterms shows that Biden’s path to victory likely necessitates that his campaign focus on a key issue — abortion.
 
 This is important for the Biden campaign, and Democrats in general, to hear at this point in the 2024 presidential campaign.  Recent <a href="https://www.nytimes.com/2023/11/05/us/politics/biden-trump-2024-poll.html">polling</s> from early November 2023 reported in the New York Times argued that Biden was trailing Trump in Nevada, Georgia, Arizona, Michigan and Pennsylvania.  Only in Wisconsin did this polling indicate that Biden might currently lead Trump, and by only a small 2% margin.  
 
