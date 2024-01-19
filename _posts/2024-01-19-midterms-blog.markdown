@@ -17,7 +17,7 @@ Later this fall, American voters will be casting ballots in consequential electi
 
 Research that we just published in PLOS ONE (<a href="https://doi.org/10.1371/journal.pone.0294047">here</a>) suggests that the evidence we have from the 2022 midterms shows that Biden’s path to victory likely necessitates that his campaign focus on a key issue — abortion.
 
-This is important for the Biden campaign, and Democrats in general, to hear at this point in the 2024 presidential campaign.  Recent <a href="https://www.nytimes.com/2023/11/05/us/politics/biden-trump-2024-poll.html">polling</s> from early November 2023 reported in the New York Times argued that Biden was trailing Trump in Nevada, Georgia, Arizona, Michigan and Pennsylvania.  Only in Wisconsin did this polling indicate that Biden might currently lead Trump, and by only a small 2% margin.  
+This is important for the Biden campaign, and Democrats in general, to hear at this point in the 2024 presidential campaign.  Recent <a href="https://www.nytimes.com/2023/11/05/us/politics/biden-trump-2024-poll.html">polling</a> from early November 2023 reported in the New York Times argued that Biden was trailing Trump in Nevada, Georgia, Arizona, Michigan and Pennsylvania.  Only in Wisconsin did this polling indicate that Biden might currently lead Trump, and by only a small 2% margin.  
 
 The pollsters argued that Trump’s lead in the battleground states was largely the result of more voters trusting him to handle the economy, immigration and foreign affairs.  And that Biden was losing support from core Democratic groups, especially racial and ethnic minority voters.  
 
