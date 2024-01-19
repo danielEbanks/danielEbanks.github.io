@@ -12,7 +12,7 @@ tags_color: '#487010'
 <b>Authors:</b>  Mike Alvarez, Daniel Ebanks, Claudia Kann, Jacob Morrier <br>
 
 
-## Abstract
+## Blog
 Later this fall, American voters will be casting ballots in consequential elections, in particular for the presidency.  While the exact choices voters will have in the presidential race in the fall of 2024 will be determined in the next few months, most likely President Biden will be facing former President Trump in the 2024 presidential race.  
 
 Research that we just published in PLOS ONE (<a href="https://doi.org/10.1371/journal.pone.0294047">here</a>) suggests that the evidence we have from the 2022 midterms shows that Biden’s path to victory likely necessitates that his campaign focus on a key issue — abortion.
