@@ -35,7 +35,7 @@ menu__settings:
 hero:
   enable: true
   hero__title: Danny Ebanks
-  hero__description: Political Methodology, Statistics, Machine Learning, American Politics
+  hero__description: American Politics, Political Methodology, Statistics, Machine Learning
   hero__image: '/images/IMG_1634.png' # You can add hero image. For example '/images/06.jpg'
 
 
@@ -50,7 +50,7 @@ author:
 #-------------------------------
 # Blog Section Settings
 blog__settings:
-  enable: true
+  enable: false
   blog__title: Latest Papers
   blog__description:
 
@@ -66,7 +66,7 @@ videos__settings:
 #-------------------------------
 # Tag Section Settings
 tag__settings:
-  enable: true
+  enable: false
   tag: electoral systems # To display the tag section, specify your favorite tag.
 
 
@@ -96,7 +96,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Political Methodology, Statistics, Machine Learning, American Politics.
+footer__description: American Politics, Political Methodology, Statistics, Machine Learning.
 
 
 
