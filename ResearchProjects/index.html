@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Projects
-description: Some of my latest work on frontier methods for Political Methodology. 
+description: Some of my latest work on frontier og American Politics and Political Methodology. 
 ---
 
 <!-- begin hero -->
@@ -23,14 +23,3 @@ description: Some of my latest work on frontier methods for Political Methodolog
 </section>
 <!-- end hero -->
 
-<div class="container animate">
-  <div class="row">
-    {% if site.posts.size > 0 %}
-      {% for post in paginator.posts offset:0 %}
-        {% include article.html %}
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
-
-{% include pagination.html %}
