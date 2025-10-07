@@ -43,7 +43,7 @@ hero:
 # Author Global Settings
 author:
   author__name: Danny Ebanks
-  author__bio: Postdoctoral Fellow, IQSS at Harvard
+  author__bio: Research Associate, IQSS at Harvard
   author__avatar: /images/IMG_2236.png
 
 
@@ -74,8 +74,8 @@ tag__settings:
 # Author Section Settings
 author__section:
   enable: true
-  author__section__title: I am a Postdoctoral Fellow for IQSS at Harvard. 
-  author__section__description: I recently earned my PhD at Caltech in Quantitative Social Sciences, where I developed my research interests in Political Methodology, American Politics and Congress. My research focuses on latent variable models, Bayesian statistics, legislatures, and natural language processing. I strive to develop and implement statistical methods, to understand the latest in machine learning and AI, and innovate in these areas in ways small  and large to better understand our political world.  I am always eager to chat about research and statistics, so feel free to reach out. Outside of research, I'm lifelong runner who hails from New York.
+  author__section__title: I am a Research Associate for IQSS at Harvard. 
+  author__section__description: I  earned my PhD at Caltech in Quantitative Social Sciences, where I developed my research interests in Political Methodology, American Politics and Congress. My research focuses on latent variable models, Bayesian statistics, legislatures, and natural language processing. I strive to develop and implement statistical methods, to understand the latest in machine learning and AI, and innovate in these areas in ways small  and large to better understand our political world.  I am always eager to chat about research and statistics, so feel free to reach out. Outside of research, I'm lifelong runner who hails from New York.
   aurhor__section__button__text: Research Papers
   aurhor__section__button__link: /ResearchProjects/
   author__section__big__image: /images/IMG_0663.png
