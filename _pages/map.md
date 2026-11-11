@@ -163,7 +163,7 @@ As I worked, I had an idea to be able to click-a-seat and do more in-depth analy
 
 > In our app, one use JK's approach, 2 let people pick their own GCB as an option. 3 show share of competitive seats (seats between 20-80% chance dem), and auto update t(36) to the current date and have a live feed of the GCB from JK's preferred source, have it live update once an hour? I want tabs: model only, model+ polling, model+polling+modelled regional error
 
-The same day I asked for the figure that shows how geography-based seats are generated from votes:
+Creating a version of the forecast that would update in real time was a great feature for both users and me to learn intuitively how the forecast operated mathematically, as represented in a geographic output. At once and in real time, users (and the authors of the app!) could observe how changes in parameter values and the introduction of new data propagated through the forecast in 2026, as well as in all forecasts from 1946 onward. This created a new means of understanding and visualizing the model that would not be possible in a static paper. The same day I asked for the figure that shows how geography-based seats are generated from votes:
 
 > 1. A seats–votes curve, JudgeIt-style: Democratic seats against the national vote across the simulations, with 218, today's generic ballot and the 51.9% toss-up marked. It answers your political-geography question in one picture.
 
