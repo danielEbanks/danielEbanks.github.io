@@ -244,7 +244,7 @@ The prompts that shaped the evaluation:
 - "the question here is how we did, and so we should probably orient all the presentations toward answering that specific question. something like up (to the right, wherever) is good (meaning we do well) or bad for us. or at least some explanation for each item"
 - "yes, add the average to the evaluation tab too"
 
-The tab also carries the map readers asked for. Steven Clift wrote that he was "having a hard time finding general audience House election results in the hexmap format," so I asked for before-and-after maps with our overlays on the evaluation tab.
+Even at the evaluation stage, we incorporated useful feedback from our readers. For example, Steven Clift wrote that he was "having a hard time finding general audience House election results in the hexmap format," so I asked for before-and-after maps with our overlays on the evaluation tab.
 
 ## Lessons for creating a high-impact Scholarly Work with Claude
 
