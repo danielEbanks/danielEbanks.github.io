@@ -19,6 +19,10 @@
   <meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.title }}{% else %}{{ page.title }} – {{ site.data.settings.title }}{% endif %}">
   <meta property="og:description" content="{% if page.url == "/" %}{{ site.data.settings.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
   <meta property="og:image" content="{{ page.og_image | default: page.image | absolute_url }}">
+  {% if page.og_image %}<meta property="og:image:width" content="2400">
+  <meta property="og:image:height" content="1260">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">{% endif %}
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
