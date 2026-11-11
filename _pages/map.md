@@ -194,7 +194,7 @@ And the associated map with this model-informed scenario of being wrong:
 
 ## Clearly Communicating to Humans about a Statistical Forecast Requires Extensive Human Rewriting
 
-We were concerned that normal people would need extra information about the nature of a 5% chance. We do not experience the world probabilistically, so human intuitions need more context when communicated to really "understand" probabilities. Our final forecast gave Democrats about a 96% chance of the House and 78% of the Senate. To give a mass audience a real sense of the nature of these probabilities and the interpretation of a 22% probability of the underdog winning the election required more human-generated explanation. 
+We were concerned that people untrained in statistics would need extra information and context about the nature of a 5% probability. We do not experience the world probabilistically, so human intuitions need more context when communicated to really "understand" probabilities. Our final forecast gave Democrats about a 96% chance of the House and 78% of the Senate. To give a mass audience a real sense of the nature of these probabilities and the interpretation of a 22% probability of the underdog winning the election required more human-generated explanation. 
 
 ### Probability is not Intuitive
 
