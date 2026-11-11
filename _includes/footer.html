@@ -17,7 +17,7 @@
                     {% for social in site.data.settings.social %}
                     <li class="social__item">
                       <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
-                        aria-label="{{social.icon | capitalize}} link"><i class="ion ion-logo-{{social.icon}}"></i></a>
+                        aria-label="{% if social.icon == 'scholar' %}Google Scholar{% else %}{{social.icon | capitalize}}{% endif %} link">{% if social.icon == 'scholar' %}<svg viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.125em"><path d="M12 2 0 9.6h24z"/><circle cx="12" cy="15.6" r="6.4"/></svg>{% else %}<i class="ion ion-logo-{{social.icon}}"></i>{% endif %}</a>
                     </li>
                     {% endfor %}
                   </ul>

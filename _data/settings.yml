@@ -108,6 +108,7 @@ footer__description: American Politics, Political Methodology, Statistics, Machi
 social:
 - {icon: "twitter", link: "https://twitter.com/dannycebanks"}
 - {icon: "github", link: "https://github.com/danielEbanks"}
+- {icon: "scholar", link: "https://scholar.google.com/citations?user=Fg_2h68AAAAJ"}
 
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
