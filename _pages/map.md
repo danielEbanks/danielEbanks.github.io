@@ -251,7 +251,7 @@ The tab also carries the map readers asked for. Steven Clift wrote that he was "
 The statistics, ideas, novel design elements, and creativity came from our paper and our conversations as co-authors; we communicated our big picture view to Claude, which implemented our ideas. We note a few takeaways from this experience below:
 
 1. **Use your imagination first.** Implementation is now secondary to the limits of our imagination. For example, I started this whole project with "Im picturing a cartogram with eat seat as a hexagaon". I had an ambitious idea first, and then worked on polishing it as I iterated.
-2. **Rewrite everything.** Most of my edits were rewriting jargon and unclear language: "Build your own Election Day Scenarios", "your scenario", "the most recent observed value". Readers meet the words before the math.
+2. **Rewrite everything.** Most of my edits to Claude's writing involved rewriting jargon and clarifying unclear language. Users of these types of objects are enthusiastic students, and to reach a mass audience, we need to write clear prose that teaches readers new concepts in ways they did not anticipate.
 3. **Collect feedback in real time from potential users.** I pasted Slack threads from Gary, JK, Gary Jacobson and Dominic Skinnion into some prompts verbatim, and then the LLM generated content in line with their ideas.
 4. **Insist on honesty about Mistakes and Potential Edge Cases.** "if the fundamental model whiffed and that hurt us, just say so" is an example of such an instruction. I insisted on epistemic honesty.
 5. **Generate Analysis on Potential Failure.** "Why is the model so much more confident?" on day one, and "how are we most likely to get it wrong?" three weeks later.
