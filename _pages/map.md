@@ -157,7 +157,7 @@ Since I was freed from needing to code, I could think of the highest-value featu
 
 ![Four ElectIt House map overlays: Implied Swing, Lagged President, Lagged Governor, Lagged House](/images/map/map-overlays.png){: .map-figure}
 
-## Engaging users on the map by building their own election forecast
+## Dynamic Forecasts are a teaching tool: users build intuition by building their own forecast
 
 As I worked, I had an idea to be able to click-a-seat and do more in-depth analysis. On October 3 I laid out the vision for the app in this prompt:
 
