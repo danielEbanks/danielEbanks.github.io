@@ -246,9 +246,9 @@ The prompts that shaped the evaluation:
 
 The tab also carries the map readers asked for. Steven Clift wrote that he was "having a hard time finding general audience House election results in the hexmap format," so I asked for before-and-after maps with our overlays on the evaluation tab.
 
-## Lessons from prompting a forecast
+## Lessons for creating a high-impact Scholarly Work with Claude
 
-The statistics, ideas, novelties and creativity came from our paper and our conversations as co-authors; the prompts decided how the public would read them. Six habits did most of the work:
+The statistics, ideas, novel design elements, and creativity came from our paper and our conversations as co-authors; we communicated our big picture view to Claude, which implemented our ideas. We note a few takeaways from this experience below:
 
 1. **Describe the output you imagine.** "Im picturing a cartogram with eat seat as a hexagaon" produced a better first draft than a specification would have.
 2. **Rewrite everything.** Most of my edits were rewriting jargon and unclear language: "Build your own Election Day Scenarios", "your scenario", "the most recent observed value". Readers meet the words before the math.
